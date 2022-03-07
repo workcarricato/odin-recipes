@@ -1,1 +1,2 @@
 # odin-recipes
+#This project serves as a basic website holding various recipes deemed to be my "favorite". This project will test my skills in HTML. It will demonstrate the ability to use tags, pictures and links for formatting and style throughout the seperate web pages.
