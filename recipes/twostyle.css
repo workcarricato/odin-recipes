@@ -1,0 +1,14 @@
+/** recipes twostyle.css **/
+
+* {
+    background-color: black;
+    color: white;
+}
+
+.centered {
+    text-align: center;
+}
+
+.backnext {
+    color: rebeccapurple;
+}
