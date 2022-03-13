@@ -1,29 +1,25 @@
-/** home css.style **/
+/** homepage style.css **/
 
-h1 {
-    font-weight: bolder;
-    color: white;
-    font-size: 48px;
-}
-
-p {  
+* {   
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
     font-size: 18px;
 }
 
-div {   
-    text-align: center;
+.hometitle {
+    color: white;
+    font-size: 54px;
 }
 
-body {
-    background-color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.picture {
+    height: auto;
 }
-.top {
-     height: auto;
+
+.picture.top {
      width: 600px;
  }
 
-.bottom {
-     height: auto;
+.picture.bottom {
      width: 300px;
  }
