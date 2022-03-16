@@ -23,3 +23,13 @@
 .picture.bottom {
      width: 300px;
  }
+
+ .linkbox {
+     color: white;
+     background-color: red;
+     font-weight: bolder;
+     padding: 10px;
+     margin 10px;
+     border: 3px;
+     text-decoration: none;
+ }
